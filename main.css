@@ -1,0 +1,18 @@
+h3 {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.time {
+  font-size: 30px;
+  letter-spacing: 10px;
+  font-weight: bold;
+  margin: 30px;
+}
+
+.button-list button {
+  margin-right: 10px;
+  padding: 10px;
+  font-size: 14px;
+  font-weight: bold;
+}
